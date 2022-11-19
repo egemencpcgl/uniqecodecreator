@@ -17,3 +17,6 @@ Varsayılan adet 1000 dir.
 Kod Karakter Kümesi: ACDEFGHKLMNPRTXYZ234579
 Kodlar bu karakter setinen üretilmiştir.
 Üretim ardaşık sıralı yapılmaz. Kolay tahmin edilememelidir.
+
+Program using is as possible as easy
+Enjoy It.
