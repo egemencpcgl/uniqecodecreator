@@ -21,4 +21,4 @@ Kod Karakter Kümesi: ACDEFGHKLMNPRTXYZ234579
 - Kodlar bu karakter setinen üretilmiştir.
 - Üretim ardaşık sıralı yapılmaz. Kolay tahmin edilememelidir.
 
-Program kullanımı oldukça kolaydır. Kode listesini görmek için şifre KAIZEN.
+Program kullanımı oldukça kolaydır. Kod listesini görmek için şifre KAIZEN.
